@@ -1,0 +1,27 @@
+*{
+    text-align: center;
+}
+body{
+    background: url("TresureHunter2.png");
+}
+.pirate{
+    transition: 1s;
+    top: 40px;
+    left: 70px;
+    position: absolute;
+    width: 50px;
+    pointer-events: none;
+}
+h2{
+    vertical-align: top;
+}
+.background{
+    position: relative;
+    margin: auto;
+    height: 500px;
+    width: 500px;
+}
+.map{
+    height: 100%;
+    width: 100%;
+}
